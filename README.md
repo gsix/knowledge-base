@@ -6,6 +6,10 @@ GENESIX public knowledge base
 
 * [Ставим Docker и Docker compose](docker/install.md)
 
+### Rails
+
+* [Запуск dev сервера с поддержкой ssl](rails/ssl_in_dev_env.md)
+
 ### Ruby
 
 * [Файл в base64 и обратно](ruby/file_to_base64.md)
