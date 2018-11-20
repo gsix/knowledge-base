@@ -60,7 +60,7 @@ nano /etc/ssh/sshd_config
 service ssh restart
 ```
 
-### Авторизоваться в `docker`.
+### Авторизоваться в `docker`
 
 * Создать `Access Token` для доступа к docker-реестру:
 
