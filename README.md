@@ -17,3 +17,7 @@ GENESIX public knowledge base
 ### Vault
 
 * [Vault c zookeeper](vault/zookeeper_integration.md)
+
+### Proxmox
+
+* [Проброс портов снаружи в контейнер/виртуалку](proxmox/dnat_ports.md)
