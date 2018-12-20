@@ -49,3 +49,10 @@
      . /etc/bash_completion.d/ssh
     ```
     Теперь хосты должны находится по нажаитю Tab `ssh project-`
+
+## Ссылки
+* [Is there a way for one SSH config file to include another one?](https://superuser.com/questions/247564/is-there-a-way-for-one-ssh-config-file-to-include-another-one)
+* [Autocomplete server names for SSH and SCP](https://unix.stackexchange.com/questions/136351/autocomplete-server-names-for-ssh-and-scp)
+
+## Авторы
+* [webchi](https://github.com/webchi)
