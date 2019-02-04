@@ -6,6 +6,10 @@ GENESIX public knowledge base
 
 * [Ставим Docker и Docker compose](docker/install.md)
 
+### GraphQL
+
+* [Дизайн GraphQL-схем](qraphql/schema-design.md)
+
 ### Rails
 
 * [Запуск dev сервера с поддержкой ssl](rails/ssl_in_dev_env.md)
